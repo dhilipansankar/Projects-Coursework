@@ -1,0 +1,13 @@
+inheritance is achieved using the extends keyowrd
+
+ex :
+
+public class Manager extends Employee
+{}
+
+Java allows extensions from only one class
+Single Inheritance makes code more reilable
+
+Using Interfaces provides benefits of multiple inheritance without drawbacks
+
+ex ,,access modifier

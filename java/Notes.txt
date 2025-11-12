@@ -1,0 +1,1 @@
+For every primitve data type there is a relationship with a primitive class
