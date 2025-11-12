@@ -1,0 +1,20 @@
+Implement basic ICP using pipes
+
+Implement a program to read write 2 messages using parent & child process
+
+
+The mesages in question
+
+echo "Pune" >> new.txt
+echo "Mumbai" >> new.txt
+
+
+cat newtext | grep
+
+
+Although pipe can be accessed like an ordinary file, the system actually manages it as FIFO queue. A pipe file is created using the pipe system call
+A pipe descriptor, has an array that stores two pointers, one for input and one for output
+
+
+
+Message queues is another approach to IPC's.
